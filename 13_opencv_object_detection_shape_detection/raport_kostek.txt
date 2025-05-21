@@ -1,0 +1,25 @@
+
+=== RAPORT KOŃCOWY ===
+
+1. Podstawowe statystyki:
+   - Liczba wykrytych kostek: 13
+   - Srednia szerokosc: 85.8 ± 27.1 px
+   - Srednia wysokosc: 55.4 ± 18.8 px
+   - Sredni obszar: 2902.7 ± 1384.0 px²
+
+2. Zakresy wymiarow:
+   - Minimalna szerokosc: 41 px
+   - Maksymalna szerokosc: 113 px
+   - Minimalna wysokosc: 16 px
+   - Maksymalna wysokosc: 78 px
+   - Minimalny obszar: 903.5 px²
+   - Maksymalny obszar: 4843.0 px²
+
+3. Procentowe roznice:
+   - Roznica min/max szerokosci: 83.9%
+   - Roznica min/max wysokosci: 111.9%
+   - Roznica min/max obszaru: 135.7%
+
+4. Wspolczynniki ksztaltu:
+   - Sredni stosunek wysokosci do szerokosci: 0.730
+   - Odchylenie standardowe stosunku: 0.386
