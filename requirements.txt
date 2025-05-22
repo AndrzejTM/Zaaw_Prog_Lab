@@ -1,0 +1,4 @@
+paddleocr==2.6.1.3
+paddlepaddle==2.5.1
+opencv-python-headless
+lxml
